@@ -1,2 +1,5 @@
 # annotalign
-lizard annotations alignment
+# lizard annotations alignment
+# preparing to align horseshoe
+# creating clone repo
+# test
